@@ -1,0 +1,294 @@
+ /* css for boby tag */
+body {
+  background-color: white;
+}
+   
+/* css for index page */
+
+a:link {
+  text-decoration: none ;
+} 
+
+
+li a:hover {
+  background-color: turquoise;
+}
+.con {
+  display: inline;
+  float: right;
+  
+}
+.dN {
+  display: inline;
+  float: right;
+}
+.IND {
+  display: inline;
+  float: right;
+}
+.IND {
+  margin-right: 5rem;
+  padding-right: rem
+}
+.dN {
+  margin-right: 5rem;
+  padding-right: rem
+}
+.con {
+  margin-right: 5rem;
+  padding-right: rem
+}
+.menu {
+  
+}
+.logo {
+  position: relative;
+  display: inline-block;
+  left: 5px;
+  margin-top: 0rem
+
+  
+}
+.owners {
+  position: relative;
+  display: inline-block;
+  left: 0.7rem;
+  margin-top: 0;
+  color: darkgreen;
+}
+
+.Mission{
+  text-align: center;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+.missionStatement {
+  text-align: center;
+  letter-spacing:0px;
+  font: 1em sans-serif;
+  flex-wrap: wrap;
+  f
+}
+
+.top-container {
+  
+}
+hr {
+  display: block;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  border-style: solid;
+  border-width: 1px;
+  
+}
+.middle1-container {
+  
+  
+}
+.middle-container {
+  
+  
+}
+
+  
+
+
+
+
+  
+
+.pic1 {
+  width: 700px;
+  
+  
+  position: relative;
+  display: inline-block;
+  left: 5px;
+  padding: 20PX;
+}
+.pic2 {
+  width: 500px;
+  
+  
+  position: relative;
+  display: inline-block;
+  
+  left: 50PX;
+  padding: 20PX;
+}
+.pic3 {
+  width: 500px;
+  
+  
+  position: relative;
+  display: inline-block;
+  
+  left: 50PX;
+  padding: 20PX;
+}.pic4 {
+  width: 500px;
+  
+  
+  position: relative;
+  display: inline-block;
+  
+  left: 300PX;
+  padding: 20PX;
+}
+.pic5 {
+  width: 500px;
+  
+  
+  position: relative;
+  display: inline-block;
+  
+  left: 50PX;
+  padding: 20PX;
+}
+.pic6 {
+  width: 500px;
+  
+  
+  position: relative;
+  display: inline-block;
+  
+  left: 200PX;
+  padding: 20PX;
+}
+ .followUs {
+   text-align: center;
+   margin-top: 40px;
+   margin-bottom: 40px;
+ }
+ 
+ 
+ 
+.fb {
+  
+  width: 20px;
+  
+  
+  position: relative;
+  display: inline-block;
+  left: 435px;
+  padding: 20PX;
+}
+.tw{
+ 
+  width: 30px;
+  
+  
+  position: relative;
+  display: inline-block;
+  left: 550px;
+  padding: 20PX;
+}
+.yt {
+  
+  width: 35px;
+  
+  
+  position: relative;
+  display: inline-block;
+  left: 680px;
+  padding: 20PX;
+}
+
+
+
+
+
+
+
+
+
+/* css for donate page */
+
+.donate {
+  text-align: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.donateStatement {
+  text-align: center;
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.2cm;
+  flex-wrap: initial;
+}
+.followUs{
+  font-size: 15px;
+}
+
+.button {
+  border-radius: 20px;
+  margin-left: 320px;
+  margin-bottom: 10px;
+  border-color: crimson;
+  color: blue;
+}
+
+.CD {
+  margin-left: 450px;
+  margin-top: 50px;
+}
+
+
+
+
+/* css for contact page */
+
+.contact {
+  width: 800px;
+  height: 700px;
+
+  position: relative;
+  display: inline-block;
+  left: 5px;
+  padding: 20PX;
+  margin-right: 100px;
+}
+
+.form {
+  width: 250px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+
+  position: relative;
+  display: inline-block;
+  left: 5px;
+  padding: 20PX;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
